@@ -48,7 +48,7 @@ const About = () => {
               className="relative w-72 h-72 lg:w-96 lg:h-96 mx-auto mt-12 rounded-full overflow-hidden border-4 border-primary/20 dark:border-primary/30"
             >
               <motion.img
-                src="src/images/profile.jpeg"
+                src="public/static/images/profile.jpeg"
                 alt="Rahul Krishna"
                 className="w-full h-full object-cover"
                 whileHover={{
