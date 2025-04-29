@@ -3,20 +3,28 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
-    title: "Crowdfunding Platform",
+    title: "Public Patronage System",
     description:
-      "A decentralized crowdfunding platform built with Solidity and React, enabling secure and transparent fundraising campaigns on the blockchain.",
-    technologies: ["Solidity", "React", "Web3.js", "Hardhat"],
+      "A Decentralized crowdfunding platform built on zkEVM allowing creators to raise funds for projects in a transparent and secure manner",
+    technologies: ["Solidity", "React", "Web3.js", "Hardhat", "Thirdweb"],
     image: "/images/crowdfunding.png",
-    github: "https://github.com/rahulkrishnaa/crowdfunding-platform",
+    github: "https://github.com/RahulKrishna15/Public_Patronage_System",
   },
   {
-    title: "NFT Marketplace",
+    title: "Digital Ownership Engraver",
     description:
-      "A full-stack NFT marketplace where users can mint, buy, and sell digital assets on the Ethereum blockchain.",
-    technologies: ["Solidity", "Next.js", "TypeScript", "Tailwind CSS"],
+      "A Decentralized platform built on polygon-testnet allowing creators to convert an image of jpeg format to an NFT Token.",
+    technologies: ["React", "Javascript", "CSS"],
     image: "/images/nft-marketplace.png",
-    github: "https://github.com/rahulkrishnaa/nft-marketplace",
+    github: "https://github.com/RahulKrishna15/Digital_Ownership_Engraver",
+  },
+  {
+    title: "Block Vest",
+    description:
+      "A modular crypto exchange platform with secure wallet management, and seamless payment integration. Combines real-world APIs, portfolio analytics, and 2FA for a production-ready fintech solution",
+    technologies: ["Spring Boot", "MySQL", "React", "Razorpay" ,"CoinGecko API"],
+    image: "/images/BlockVest.png",
+    github: "https://github.com/RahulKrishna15/BlockVest",
   },
 ];
 
