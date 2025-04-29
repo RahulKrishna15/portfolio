@@ -59,13 +59,13 @@ const Hero = () => {
           <div className="flex flex-wrap gap-4 animate-text opacity-0 translate-y-3 transition-all duration-500 ease-out delay-300">
             <a
               href="#contact"
-              className="px-6 py-3 rounded-lg bg-indigo-600 text-white dark:bg-indigo-500 dark:text-white font-medium transition-all hover:scale-105 hover:shadow-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 hover:shadow-indigo-500/50 dark:hover:shadow-indigo-400/50 hover:border-2 hover:border-purple-500 dark:hover:border-purple-400"
+              className="px-6 py-3 rounded-lg bg-indigo-600 text-white dark:bg-indigo-500 dark:text-white font-medium transition-all hover:scale-105 hover:shadow-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 hover:shadow-indigo-500/50 dark:hover:shadow-indigo-400/20 dark:hover:border-purple-400"
             >
               Get in Touch
             </a>
             <a
               href="#projects"
-              className="px-6 py-3 rounded-lg border border-gray-200 dark:border-gray-700 bg-white/50 dark:bg-gray-800/50 font-medium transition-all hover:scale-105 hover:shadow-md hover:bg-white dark:hover:bg-gray-800 hover:border-2 hover:border-purple-500 dark:hover:border-purple-400 hover:text-indigo-600 dark:hover:text-indigo-400"
+              className="px-6 py-3 rounded-lg bg-indigo-600 text-white dark:bg-indigo-500 dark:text-white font-medium transition-all hover:scale-105 hover:shadow-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 hover:shadow-indigo-500/50 dark:hover:shadow-indigo-400/20 dark:hover:border-purple-400"
             >
               View Projects
             </a>
@@ -97,7 +97,7 @@ const Hero = () => {
               <Twitter size={18} className="text-gray-700 dark:text-gray-300" />
             </a>
             <a
-              href="mailto:rahulkrishnapooboni@gmail.com"
+              href="mailto:rahulkrishnapooboni057@gmail.com"
               className="w-10 h-10 flex items-center justify-center rounded-full border border-gray-200 dark:border-gray-700 transition-all hover:bg-indigo-100 dark:hover:bg-indigo-900/30"
               aria-label="Email"
             >

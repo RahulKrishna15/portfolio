@@ -180,7 +180,7 @@ const Contact = () => {
                       Email
                     </p>
                     <a
-                      href="mailto:rahulkrishna.work@gmail.com"
+                      href="mailto:rahulkrishnapooboni057@gmail.com"
                       className="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 transition-colors duration-300"
                     >
                       rahulkrishnapooboni057@gmail.com
@@ -228,7 +228,7 @@ const Contact = () => {
               </h3>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/rahulkrishnaa"
+                  href="https://github.com/RahulKrishna15"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-indigo-100 dark:bg-indigo-900/30 flex items-center justify-center text-indigo-600 dark:text-indigo-400 hover:bg-indigo-600 hover:text-white dark:hover:bg-indigo-400 dark:hover:text-white transition-all duration-300"
@@ -236,7 +236,7 @@ const Contact = () => {
                   <FaGithub className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/rahulkrishnaa"
+                  href="https://www.linkedin.com/in/rahul-krishna-pooboni-0b103b256/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-indigo-100 dark:bg-indigo-900/30 flex items-center justify-center text-indigo-600 dark:text-indigo-400 hover:bg-indigo-600 hover:text-white dark:hover:bg-indigo-400 dark:hover:text-white transition-all duration-300"
@@ -244,7 +244,7 @@ const Contact = () => {
                   <FaLinkedin className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://twitter.com/rahulkrishnaa"
+                  href="https://x.com/RahulKr1276"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-indigo-100 dark:bg-indigo-900/30 flex items-center justify-center text-indigo-600 dark:text-indigo-400 hover:bg-indigo-600 hover:text-white dark:hover:bg-indigo-400 dark:hover:text-white transition-all duration-300"
