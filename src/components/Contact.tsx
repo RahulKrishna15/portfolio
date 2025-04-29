@@ -183,7 +183,7 @@ const Contact = () => {
                       href="mailto:rahulkrishna.work@gmail.com"
                       className="text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 transition-colors duration-300"
                     >
-                      rahulkrishna.work@gmail.com
+                      rahulkrishnapooboni057@gmail.com
                     </a>
                   </div>
                 </div>
